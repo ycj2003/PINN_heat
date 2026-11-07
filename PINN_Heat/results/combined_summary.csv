@@ -1,0 +1,3 @@
+benchmark,n_seeds,soft_rel_l2_mean_pct,soft_rel_l2_sd_pct,hard_rel_l2_mean_pct,hard_rel_l2_sd_pct,reduction_pct
+Bowman 2023 Eq12 analytical subcase (partial),1,0.33025445882230997,n/a,0.00837268671602942,n/a,97.46477708555807
+Manufactured-source extension (five seeds),5,1.1008605640381575,0.6063789308046867,0.13307818211615086,0.055859703084869684,87.91144069799395

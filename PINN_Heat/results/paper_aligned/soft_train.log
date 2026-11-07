@@ -1,0 +1,6 @@
+RUN soft: Adam steps=2000, LBFGS maximum steps=120
+ soft adam 500/2000: total=0.006019 pde=0.004543
+ soft adam 1000/2000: total=0.003143 pde=0.002254
+ soft adam 1500/2000: total=0.003096 pde=0.00264
+ soft adam 2000/2000: total=0.00763 pde=0.001841
+RESULT soft relative_L2= 0.0033025445882230997 PDE_RMSE= 0.019641922786831856 R2= 0.9999577300004603 elapsed= 21.354178605000016

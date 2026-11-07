@@ -1,0 +1,11 @@
+{
+  "seed": 2,
+  "mode": "soft",
+  "epochs": 2000,
+  "relative_l2": 0.006479630712419748,
+  "ic_rmse": 0.001604336779564619,
+  "bc_rmse": 0.0030337926000356674,
+  "pde_rmse_heldout": 0.02746393531560898,
+  "training_seconds": 10.70363898999949,
+  "device": "cpu"
+}

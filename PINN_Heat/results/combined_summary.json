@@ -1,0 +1,20 @@
+[
+  {
+    "benchmark": "Bowman 2023 Eq12 analytical subcase (partial)",
+    "n_seeds": 1,
+    "soft_rel_l2_mean_pct": 0.33025445882230997,
+    "soft_rel_l2_sd_pct": "n/a",
+    "hard_rel_l2_mean_pct": 0.00837268671602942,
+    "hard_rel_l2_sd_pct": "n/a",
+    "reduction_pct": 97.46477708555807
+  },
+  {
+    "benchmark": "Manufactured-source extension (five seeds)",
+    "n_seeds": 5,
+    "soft_rel_l2_mean_pct": 1.1008605640381575,
+    "soft_rel_l2_sd_pct": 0.6063789308046867,
+    "hard_rel_l2_mean_pct": 0.13307818211615086,
+    "hard_rel_l2_sd_pct": 0.055859703084869684,
+    "reduction_pct": 87.91144069799395
+  }
+]

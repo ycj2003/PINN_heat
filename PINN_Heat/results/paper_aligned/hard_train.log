@@ -1,0 +1,7 @@
+RUN hard: Adam steps=2000, LBFGS maximum steps=120
+ hard adam 500/2000: total=0.03679 pde=0.03679
+ hard adam 1000/2000: total=0.0002597 pde=0.0002597
+ hard adam 1500/2000: total=4.481e-05 pde=4.481e-05
+ hard adam 2000/2000: total=1.438e-05 pde=1.438e-05
+RESULT hard relative_L2= 8.37268671602942e-05 PDE_RMSE= 0.0008021610556170344 R2= 0.9999999728316062 elapsed= 17.798145716000363
+DONE
